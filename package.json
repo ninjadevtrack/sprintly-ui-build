@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "moment": "^2.10.6",
-    "react": "^0.13.3"
+    "react": "^16.13.1"
   },
   "devDependencies": {
     "babelify": "^6.1.2",
@@ -44,7 +44,7 @@
     "moment": "^2.10.6",
     "open": "^0.0.5",
     "phantomjs": "1.9.7-15",
-    "react": "^0.13.3",
+    "react": "^16.13.1",
     "serve-static": "^1.10.0",
     "sinon": "^1.12.1",
     "vinyl-source-stream": "^1.0.0",
